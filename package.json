@@ -22,11 +22,11 @@
   },
   "homepage": "https://github.com/Pana/nrm",
   "dependencies": {
-    "chalk": "^4.1.2",
-    "commander": "^8.3.0",
-    "ini": "^2.0.0",
+    "chalk": "4.1.2",
+    "commander": "8.3.0",
+    "ini": "2.0.0",
     "node-fetch": "2.6.6",
-    "open": "^8.4.0"
+    "open": "8.4.0"
   },
   "devDependencies": {
     "coffee": "^5.4.0",
